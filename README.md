@@ -34,5 +34,21 @@ Classes ( Admin Side ):<br><br>
 Contact Us:<br><br>
 ![image](https://github.com/hema-sri4/CMS-Website/assets/85050196/f20cf479-13f7-4059-b913-7d882d7a8655)
 
+<hr>
+Advantages of CMS :<br><br>
+Compared to static HTML websites, key benefits of CMS include:<br>
+• user-friendliness<br>
+• quick deployment<br>
+• ease of maintenance, including updates<br>
+• cost-efficiency, especially with out-the-box solutions, open source or 
+freeware<br>
+• extendable functionality, through a large number of plugins and 
+extensions<br>
+• SEO-friendly features<br>
+• developer and community support<br>
+One of the main advantages of CMS is that it enables non-technically 
+minded users to create functional pages or upload and modify content 
+themselves, without having to outsource the work to a web developer 
+or understand programming languages such as HTML or PHP.<br>
 
 ## Thankyou
