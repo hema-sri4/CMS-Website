@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+
+<head>
+
+    <style>
+        table, th, td {
+          border: 1px solid black;
+          border-collapse: collapse;
+          width:50%;
+        }
+        img{
+            display:none;
+        }
+    </style>
+</head>
+    <body>
+        <img id="s1" src="C:\xampp\htdocs\project\Admin\images\aboutus.jpg" alt="">
+        <img id="s2" src="C:\xampp\htdocs\project\Admin\images\library1.jpg" alt="">
+        <img id="s3" src="" alt="">
+        <table>
+            <tr>
+                <td><button type="button" onclick="show1()" >1</button></td>
+                <td rowspan="4" id="xyz">2</td>
+            </tr>  
+            <tr>
+                <td><button type="button" onclick="show2()" >a</button></td>
+            </tr>
+            <tr>
+                <td><button type="button" onclick="show3()" >b</button></td>
+            </tr>
+        </table>
+        <script>
+            function show1(){
+                document.getElementById('s1').style.display="inline";
+            }
+            function show2(){
+                document.getElementById('s2').style.display="inline";
+            }
+            function show3(){
+                document.getElementById('s3').style.display="inline";
+            }
+        </script>
+    </body>
+</html>
